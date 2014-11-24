@@ -1,8 +1,9 @@
 <h1>JS-Checktree-Plugin</h1>
 ===================
 
-<b>Description</b> : It is a JQuery plugin which provides Checktree functionality
+<dl><h2>Description :</h2></dl>
+      <dd>It is a JQuery plugin which provides Checktree functionality</dd>
 
-Usage : 
+<dl><h2>Usage :</h2></dl> 
 
-      Add class name-'checktree' to the root element of the ul-li tree and invoke checktree() function on the same
+<dd>Add class name-'checktree' to the root element of the ul-li tree and invoke checktree() function on the same</dd>
