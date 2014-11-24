@@ -1,7 +1,7 @@
-JS-Checktree-Plugin
+<h1>JS-Checktree-Plugin</h1>
 ===================
 
-It is a JQuery plugin which provides Checktree functionality
+<b>Description</b> : It is a JQuery plugin which provides Checktree functionality
 
 Usage : 
 
