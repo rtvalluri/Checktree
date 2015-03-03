@@ -1,5 +1,4 @@
 <h1>JS-Checktree-Plugin</h1>
-===================
 <dl><h2>Description :</h2></dl>
 <dd>It is a JQuery plugin which provides Checktree functionality</dd>
 
