@@ -1,9 +1,7 @@
-body
-{
+body{
+	width: 1100px;
 	margin: 0 auto;
 }
-
-ul
-{
+ul{
     list-style-type: none;    
 }
